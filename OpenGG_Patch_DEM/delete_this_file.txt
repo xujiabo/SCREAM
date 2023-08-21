@@ -1,0 +1,1 @@
+When calling "save_patch()" in "visualize_open_gf.py", "1-650.npy" will be saved here.
